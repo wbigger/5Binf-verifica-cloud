@@ -1,4 +1,4 @@
-# SIMULAZIONE VERIFICA TPSI: HTML, CSS, JS, Cloud
+# VERIFICA TPSI: HTML, CSS, JS, Cloud
 
 Benvenuti alla verifica scritta di TPSI. Buon lavoro!
 
