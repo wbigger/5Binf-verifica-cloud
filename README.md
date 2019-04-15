@@ -20,10 +20,10 @@ Operazioni preliminari:
 - [ ] dopo aver installato l'estensione Live Server, deve comparire il pulsante "Go Live" nella barra blu in basso, premerci sopra per aprire la pagina
 - [ ] a questo punto avete la pagina di riferimento aperta sul vostro browser e potete cominciare lo sviluppo seguendo i punti nella sezione "Calcolo del punteggio->Punti Progetto" più sotto in questa pagina
 
-Accesso ad AWS:
+Accesso e configurazione di AWS:
 - [ ] accedete alla [pagina di login](https://www.awseducate.com/signin/SiteLogin) di AWS Educate
-- [ ] se non l'avete ancora fatto, create un'istanza di AWS dal vostro account e configuratela seguendo [questa guida](https://wbigger.github.io/book-html5/deploy/cloud.html#creare-unistanza)
-- [ ] una volta creata l'istanza ed effettuato l'accesso, seguite i punti sulla [guida al cloud deployment](https://wbigger.github.io/book-html5/deploy/cloud.html#deploy) e svolgete i punti della sezione "Calcolo del punteggio->Punti AWS"
+- [ ] per creare un'istanza di AWS dal vostro account e configurarla, seguite [questa guida](https://wbigger.github.io/book-html5/deploy/cloud.html#creare-unistanza)
+- [ ] una volta creata l'istanza ed effettuato l'accesso, svolgete i punti della sezione "Calcolo del punteggio->Punti AWS"
 
 Attenzione: **non** fermate o terminate l'istanza da voi generata perché mi servirà per la correzione!
 
@@ -56,10 +56,11 @@ Punti progetto:
 - [ ] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
 - [ ] commit e push del codice aggiornato su GitHub
 
-Punti AWS:
-- [ ] istanza su AWS creata
+Punti AWS (vedi sezione precedente per accesso e configurazione):
+- [ ] **nuova** istanza su AWS creata (dovete crearne una nuova!)
 - [ ] istanza configurata correttamente con docker e git
 - [ ] istanza con gruppi di sicurezza corretti
+- [ ] istanza con il proprio progetto scaricato
 - [ ] istanza con il web server running
 - [ ] istanza che visualizza correttamente la pagina del progetto (deve essere uguale a quella locale)
 
@@ -67,7 +68,7 @@ Punti benchmark:
 - [ ] screenshots delle prestazioni di caricamento della pagina locale
 - [ ] screenshots delle prestazioni di caricamento della pagina su AWS
 
-Totale punti: 20
+Totale punti: 19
 
 Sufficienza: 11
 
