@@ -1,3 +1,17 @@
 {
+    "cardList": [{
+        "nome": "Claudio",
+        "cognome": "Capobianco",
+        "materia": "TPSI"
+    },{
+        "nome": "Vincenzo",
+        "cognome": "Di Falco",
+        "materia": "SISTEMI E RETI"
+
+    },{
+        "nome": "Andrea",
+        "cognome": "Angelini",
+        "materia": "INFORMATICA"
+    }
     
-}
+    ]}
