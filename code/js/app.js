@@ -7,6 +7,16 @@ var app = {
 	},
 	showCards(dataJson) {
 		console.log(dataJson);
+		dataJson.cardList.forEach(element => {
+			let card=
+			`<tr>
+                    <td>${element.nome}</td>
+                    <td>${element.cognome}</td>
+                    <td>${element.materia}</td>
+                  </tr>
+				 `;
+				 $("#card-container").append(card)
+		});
 		
 	},
 	onError: function(e) {
