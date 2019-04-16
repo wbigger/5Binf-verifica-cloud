@@ -7,7 +7,16 @@ var app = {
 	},
 	showCards(dataJson) {
 		console.log(dataJson);
-		
+		let lista=dataJson.commissione;
+		lista.forEach(element => {let materia=`
+		<tr>
+			  <td>${element.nomeprof}</td>
+			  <td>${element.cognomeprof}</td>
+			  <td>${element.materia}</td>
+			</tr>
+			
+		`});
+		$("#materia").append(materia);
 	},
 	onError: function(e) {
 		console.log(`Ajax error: ${JSON.stringify(e)}`);

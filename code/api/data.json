@@ -1,3 +1,18 @@
 {
-    
+    "commissione" :[
+        {
+            "nomeprof":"Andrea",
+            "cognomeprof":"Angelini",
+            "materia":"Informatica"
+        },{
+            "nomeprof":"Claudio",
+            "cognomeprof":"Capobianco",
+            "materia":"TPSI"
+        },{
+             "nomeprof":"Vincenzo",
+            "cognomeprof":"Di Falco",
+            "materia":"Sistemi e reti"
+        }
+
+    ]
 }
