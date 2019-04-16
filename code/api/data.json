@@ -1,3 +1,19 @@
 {
-    
+    "tableList": [
+        {
+            "name": "Claudio",
+            "cognome": "Capobianco",
+            "materia": "TPSI"
+        },
+        {
+            "name": "Andrea",
+            "cognome": "Angelini",
+            "materia": "Informatica"
+        },
+        {
+            "name": "Vincenzo",
+            "cognome": "Di Falco",
+            "materia": "Sistemi e Reti"
+        }
+    ]
 }
