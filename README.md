@@ -42,31 +42,31 @@ Quando avete finito e **comunque 5 minuti prima** dello scadere del tempo (vi ve
 Tutte le seguenti voci valgono **1 punto**. 
 
 Punti generali:
-- [ ] corretta indentazione di tutti i file
-- [ ] codice che compila senza errori nella console del browser
-- [ ] chiarezza del codice (commenti, identificativi, etc.)
+- [x] corretta indentazione di tutti i file
+- [x] codice che compila senza errori nella console del browser
+- [x] chiarezza del codice (commenti, identificativi, etc.)
 
 Punti progetto:
-- [ ] una card nel file JSON compilata correttamente
-- [ ] tutte le card nel file JSON compilate correttamente
-- [ ] codice JavaScript che itera sul file JSON
-- [ ] sostituzione delle stringhe statiche con elementi dinamici
-- [ ] una card visualizzata correttamente
-- [ ] tutte le card visualizzate correttamente
-- [ ] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
-- [ ] commit e push del codice aggiornato su GitHub
+- [x] una card nel file JSON compilata correttamente
+- [x] tutte le card nel file JSON compilate correttamente
+- [x] codice JavaScript che itera sul file JSON
+- [x] sostituzione delle stringhe statiche con elementi dinamici
+- [x] una card visualizzata correttamente
+- [x] tutte le card visualizzate correttamente
+- [x] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
+- [x] commit e push del codice aggiornato su GitHub
 
 Punti AWS (vedi sezione precedente per accesso e configurazione):
-- [ ] **nuova** istanza su AWS creata (dovete crearne una nuova!)
-- [ ] istanza configurata correttamente con docker e git
-- [ ] istanza con gruppi di sicurezza corretti
-- [ ] istanza con il proprio progetto scaricato
-- [ ] istanza con il web server running
-- [ ] istanza che visualizza correttamente la pagina del progetto (deve essere uguale a quella locale)
+- [x] **nuova** istanza su AWS creata (dovete crearne una nuova!)
+- [x] istanza configurata correttamente con docker e git
+- [x] istanza con gruppi di sicurezza corretti
+- [x] istanza con il proprio progetto scaricato
+- [x] istanza con il web server running
+- [x] istanza che visualizza correttamente la pagina del progetto (deve essere uguale a quella locale)
 
 Punti benchmark:
-- [ ] screenshots delle prestazioni di caricamento della pagina locale
-- [ ] screenshots delle prestazioni di caricamento della pagina su AWS
+- [x] screenshots delle prestazioni di caricamento della pagina locale
+- [x] screenshots delle prestazioni di caricamento della pagina su AWS
 
 Totale punti: 19
 
