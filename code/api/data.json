@@ -1,3 +1,16 @@
 {
-    
+    "cardList": [{
+        "nomeProf": "Vincenzo",
+        "cognomeProf": "Di falco",
+        "materiaPrf": "Sistemi"
+    },{
+        "nomeProf": "Claudio",
+        "cognomeProf": "Capobianco",
+        "materiaPrf": "TPSI"
+    },{
+        "nomeProf": "Andrea",
+        "cognomeProf": "Angelini",
+        "materiaPrf": "Informatica"
+    }
+]
 }
