@@ -54,7 +54,7 @@ Punti progetto:
 - [ ] una card visualizzata correttamente
 - [ ] tutte le card visualizzate correttamente
 - [ ] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
-- [ ] commit e push del codice aggiornato su GitHub
+- [x] commit e push del codice aggiornato su GitHub
 
 Punti AWS (vedi sezione precedente per accesso e configurazione):
 - [x] **nuova** istanza su AWS creata (dovete crearne una nuova!)
