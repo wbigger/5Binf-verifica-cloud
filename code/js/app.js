@@ -7,8 +7,19 @@ var app = {
 	},
 	showCards(dataJson) {
 		console.log(dataJson);
+	
+		dataJson.commissionList.forEach(element => {
+			let card= `<tr>
+			<td>${element.name}</td>
+			<td>${element.surname}</td>
+			<td>${element.materia}</td>
+		  </tr>`;
+		  $("#esame").append(card);
+		});
+
 		
 	},
+
 	onError: function(e) {
 		console.log(`Ajax error: ${JSON.stringify(e)}`);
 	}

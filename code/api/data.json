@@ -1,3 +1,23 @@
 {
-    
+    "commissionList": [
+        {
+         "name":"Claudio",
+         "surname" : "Capobianco",
+         "materia" : "TPSI"
+         
+        },{
+         "name":"Andrea",
+         "surname" : "Angelini",
+         "materia" : "Informatica"
+         
+        },{
+         "name":"Vincenzo",
+         "surname" : "Di Falco",
+         "materia" : "Sistemi e Reti"
+         
+       
+         
+        }
+    ]
+
 }
