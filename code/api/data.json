@@ -1,3 +1,25 @@
 {
-    
+    "commList": [
+        {
+            "name": "Claudio",
+            "surname": "Capobianco",
+            "subject": "TPSI"
+        },
+        {
+            "name": "Andrea",
+            "surname": "Angelini",
+            "subject": "Informatica"
+        },
+        {
+            "name": "Vincenzo",
+            "surname": "Di Falco",
+            "subject": "Sistemi e Reti"
+        }
+    ],
+    "lastUpdate": [
+        {
+            "day":"yesterday",
+            "time":"11:59 PM"
+        }
+    ]
 }
