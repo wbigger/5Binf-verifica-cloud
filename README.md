@@ -47,12 +47,12 @@ Punti generali:
 - [ ] chiarezza del codice (commenti, identificativi, etc.)
 
 Punti progetto:
-- [ ] una card nel file JSON compilata correttamente
-- [ ] tutte le card nel file JSON compilate correttamente
-- [ ] codice JavaScript che itera sul file JSON
-- [ ] sostituzione delle stringhe statiche con elementi dinamici
-- [ ] una card visualizzata correttamente
-- [ ] tutte le card visualizzate correttamente
+- [x] una card nel file JSON compilata correttamente
+- [x] tutte le card nel file JSON compilate correttamente
+- [x] codice JavaScript che itera sul file JSON
+- [x] sostituzione delle stringhe statiche con elementi dinamici
+- [x] una card visualizzata correttamente
+- [  ] tutte le card visualizzate correttamente
 - [ ] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
 - [ ] commit e push del codice aggiornato su GitHub
 
