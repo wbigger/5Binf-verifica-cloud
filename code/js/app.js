@@ -14,15 +14,11 @@ var app = {
 			<td>${element.materia}</td>
 		  </tr>`
 			$("#table-container").append(table);
-
 		});
-
 	},
 	onError: function (e) {
 		console.log(`Ajax error: ${JSON.stringify(e)
 			}`);
 	}
-
 }
-
 $(document).ready(app.init);
