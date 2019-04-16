@@ -7,6 +7,14 @@ var app = {
 	},
 	showCards(dataJson) {
 		console.log(dataJson);
+		dataJson.tablist.forEach(element => {
+				let tab=` <tr>
+				<td>${element.nome}</td>
+				<td>${element.cognome}</td>
+				<td>${element.materia}</td>
+			  </tr>`   
+			  $("#tab-container").append(tab)
+		});
 		
 	},
 	onError: function(e) {
