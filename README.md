@@ -42,9 +42,9 @@ Quando avete finito e **comunque 5 minuti prima** dello scadere del tempo (vi ve
 Tutte le seguenti voci valgono **1 punto**. 
 
 Punti generali:
-- [] corretta indentazione di tutti i file
-- [ ] codice che compila senza errori nella console del browser
-- [ ] chiarezza del codice (commenti, identificativi, etc.)
+- [X] corretta indentazione di tutti i file
+- [X] codice che compila senza errori nella console del browser
+- [X] chiarezza del codice (commenti, identificativi, etc.)
 
 Punti progetto:
 - [x] una card nel file JSON compilata correttamente
@@ -73,6 +73,8 @@ Totale punti: 19
 Sufficienza: 11
 
 Per avere il massimo del voto bisogna avere il massimo del punteggio.
+
+PUNTI OTTENUTI: 11
 
 # Note generali
 Testate il vostro progetto il più spesso possibile per controllare che non sia corretto.

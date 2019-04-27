@@ -16,7 +16,7 @@ var app = {
 			</tr>
 			
 		`});
-		$("#materia").append(materia);
+		$("#materia").append(materia); // PROF: append deve stare dentro il ciclo
 	},
 	onError: function(e) {
 		console.log(`Ajax error: ${JSON.stringify(e)}`);
