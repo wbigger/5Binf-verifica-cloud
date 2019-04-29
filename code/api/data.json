@@ -1,3 +1,17 @@
 {
-    
+    "list" :[
+        {
+            "nome":"Andrea",
+            "cognome":"Angelini",
+            "materia":"Informatica"
+        },{
+            "nome":"Claudio",
+            "cognome":"Capobianco",
+            "materia":"TPSI"
+        },{
+            "nome":"Vincenzo",
+            "cognome":"Di Falco",
+            "materia":"Sistemi e reti"
+        }
+    ]
 }
