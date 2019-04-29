@@ -15,6 +15,9 @@ var app = {
 			</tr>`;
 		$("#table-container").append(table);
 		});
+
+		// Correctly update table
+		$('#dataTable').DataTable();
 		
 	},
 	onError: function(e) {

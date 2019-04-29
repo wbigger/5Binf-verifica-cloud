@@ -42,7 +42,7 @@ Quando avete finito e **comunque 5 minuti prima** dello scadere del tempo (vi ve
 Tutte le seguenti voci valgono **1 punto**. 
 
 Punti generali:
-- [x] corretta indentazione di tutti i file
+- [] corretta indentazione di tutti i file
 - [x] codice che compila senza errori nella console del browser
 - [x] chiarezza del codice (commenti, identificativi, etc.)
 
@@ -73,6 +73,8 @@ Totale punti: 19
 Sufficienza: 11
 
 Per avere il massimo del voto bisogna avere il massimo del punteggio.
+
+PUNTEGGIO OTTENUTO: 18
 
 # Note generali
 Testate il vostro progetto il più spesso possibile per controllare che non sia corretto.
