@@ -14,9 +14,11 @@ var app = {
 			<td>${element.surname}</td>
 			<td>${element.materia}</td>
 		  </tr>`;
+		//   PROF: se usi "name" e "surname" per coerenza dovresti usare "subject" o qualcosa di simile
 		  $("#esame").append(card);
 		});
 
+		$('#dataTable').DataTable();
 		
 	},
 
