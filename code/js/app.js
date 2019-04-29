@@ -21,6 +21,8 @@ var app = {
 			$("#dataTable tbody").append(html);
 		});
 
+		$('#dataTable').DataTable();
+		
 		let list2 = jsonData.lastUpdate;
 		list2.forEach(element => {
 			let html2 = `<div class="card-footer small text-muted">Updated ${element.day} at ${element.time}</div>`;
