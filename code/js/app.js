@@ -16,6 +16,8 @@ var app = {
 		  </tr>`;
 			$("#esame").append(card);
 		});
+
+		$('#dataTable').DataTable();
 	},
 
 	onError: function(e) {
