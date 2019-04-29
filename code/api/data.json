@@ -1,3 +1,18 @@
 {
-    
+    "list":[
+        {
+            "nameprof": "Andrea",
+            "surnameprof": "Angelini",
+            "materia": "informatica"
+        },
+        {
+            "nameprof": "Claudio",
+            "surnameprof": "Capobianco",
+            "materia": "tpsi"
+        },{
+            "nameprof": "Vincenzo",
+            "surnameprof": "Di Falco",
+            "materia": "sistemi"
+        }
+    ]
 }
