@@ -57,7 +57,7 @@ Punti progetto:
 - [ ] commit e push del codice aggiornato su GitHub
 
 Punti AWS (vedi sezione precedente per accesso e configurazione):
-- [ ] **nuova** istanza su AWS creata (dovete crearne una nuova!)
+- [X] **nuova** istanza su AWS creata (dovete crearne una nuova!)
 - [ ] istanza configurata correttamente con docker e git
 - [ ] istanza con gruppi di sicurezza corretti
 - [ ] istanza con il proprio progetto scaricato
