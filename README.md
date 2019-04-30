@@ -74,6 +74,8 @@ Sufficienza: 11
 
 Per avere il massimo del voto bisogna avere il massimo del punteggio.
 
+PUNTI OTTENUTI: ??? non c'è nessun commit!
+
 # Note generali
 Testate il vostro progetto il più spesso possibile per controllare che non sia corretto.
 
