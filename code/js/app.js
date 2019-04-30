@@ -15,6 +15,7 @@ var app = {
 		  </tr>`
 			$("#table-container").append(table);
 		});
+		$("dataTable").DataTable();
 	},
 	onError: function (e) {
 		console.log(`Ajax error: ${JSON.stringify(e)

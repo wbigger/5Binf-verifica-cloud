@@ -60,19 +60,21 @@ Punti AWS (vedi sezione precedente per accesso e configurazione):
 - [x] **nuova** istanza su AWS creata (dovete crearne una nuova!)
 - [x] istanza configurata correttamente con docker e git
 - [x] istanza con gruppi di sicurezza corretti
-- [x] istanza con il proprio progetto scaricato
-- [x] istanza con il web server running
-- [x] istanza che visualizza correttamente la pagina del progetto (deve essere uguale a quella locale)
+- [?] istanza con il proprio progetto scaricato
+- [?] istanza con il web server running
+- [?] istanza che visualizza correttamente la pagina del progetto (deve essere uguale a quella locale)
 
 Punti benchmark:
 - [x] screenshots delle prestazioni di caricamento della pagina locale
-- [x] screenshots delle prestazioni di caricamento della pagina su AWS
+- [?] screenshots delle prestazioni di caricamento della pagina su AWS
 
 Totale punti: 19
 
 Sufficienza: 11
 
 Per avere il massimo del voto bisogna avere il massimo del punteggio.
+
+PUNTEGGIO OTTENUTO: 15+4?
 
 # Note generali
 Testate il vostro progetto il più spesso possibile per controllare che non sia corretto.
