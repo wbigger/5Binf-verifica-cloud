@@ -15,6 +15,7 @@ var app = {
 			  </tr>`   
 			  $("#tab-container").append(tab)
 		});
+		$("#dataTable").DataTable();
 		
 	},
 	onError: function(e) {
