@@ -42,7 +42,7 @@ Quando avete finito e **comunque 5 minuti prima** dello scadere del tempo (vi ve
 Tutte le seguenti voci valgono **1 punto**. 
 
 Punti generali:
-- [x] corretta indentazione di tutti i file
+- [] corretta indentazione di tutti i file
 - [x] codice che compila senza errori nella console del browser
 - [x] chiarezza del codice (commenti, identificativi, etc.)
 
@@ -53,7 +53,7 @@ Punti progetto:
 - [x] sostituzione delle stringhe statiche con elementi dinamici
 - [x] una card visualizzata correttamente
 - [x] tutte le card visualizzate correttamente
-- [x] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
+- [] il file `index.html` originale e quello generato da voi sono _perfettamente identici_
 - [x] commit e push del codice aggiornato su GitHub
 
 Punti AWS (vedi sezione precedente per accesso e configurazione):
@@ -65,7 +65,7 @@ Punti AWS (vedi sezione precedente per accesso e configurazione):
 - [ ] istanza che visualizza correttamente la pagina del progetto (deve essere uguale a quella locale)
 
 Punti benchmark:
-- [ ] screenshots delle prestazioni di caricamento della pagina locale
+- [X] screenshots delle prestazioni di caricamento della pagina locale
 - [ ] screenshots delle prestazioni di caricamento della pagina su AWS
 
 Totale punti: 19
@@ -73,6 +73,8 @@ Totale punti: 19
 Sufficienza: 11
 
 Per avere il massimo del voto bisogna avere il massimo del punteggio.
+
+PUNTI OTTENUTI: 13
 
 # Note generali
 Testate il vostro progetto il più spesso possibile per controllare che non sia corretto.
